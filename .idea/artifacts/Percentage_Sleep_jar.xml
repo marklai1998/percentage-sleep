@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Percentage-Sleep:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Percentage_Sleep_jar</output-path>
+    <root id="archive" name="Percentage-Sleep.jar">
+      <element id="module-output" name="Percentage-Sleep" />
+    </root>
+  </artifact>
+</component>

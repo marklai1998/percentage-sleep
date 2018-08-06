@@ -1,0 +1,5 @@
+name: PercentageSleep
+main: com.mrmatches.PercentageSleep.PercentageSleep
+version: 0.0.1
+authors: [MrMatchesExMark]
+description: set a percentage of player sleep to skip the night
