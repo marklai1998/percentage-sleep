@@ -84,6 +84,7 @@ public class PercentageSleep extends JavaPlugin implements Listener {
             List<World> worlds = Bukkit.getWorlds();
             for (World world : worlds) {
                 world.setTime(1000);
+                world.setStorm(false);
             }
             for (Player player : Bukkit.getOnlinePlayers()) {
                 player.sendMessage(ChatColor.RED + "[系統] " + ChatColor.YELLOW + "早晨啊咁多位");
