@@ -7,9 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efacc8fd-c2a7-4322-95a6-71d29fcf8705" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spigot_1_13.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Percentage_Sleep_jar/Percentage-Sleep.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Percentage_Sleep_jar/Percentage-Sleep.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Percentage-Sleep/com/mrmatches/PercentageSleep/PercentageSleep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Percentage-Sleep/com/mrmatches/PercentageSleep/PercentageSleep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Percentage-Sleep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Percentage-Sleep.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Percentage_Sleep_jar/Percentage-Sleep.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/mrmatches/PercentageSleep/PercentageSleep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mrmatches/PercentageSleep/PercentageSleep.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -56,14 +57,28 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1586143383">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="63" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mrmatches/PercentageSleep/PercentageSleep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="619">
-              <caret line="86" column="36" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
+            <state relative-caret-position="532">
+              <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,18 +138,15 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="147" />
-    <option name="y" value="110" />
-    <option name="width" value="1863" />
-    <option name="height" value="979" />
+    <option name="x" value="-7" />
+    <option name="width" value="1294" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,14 +169,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533569902322" />
-    <property name="last_opened_file_path" value="Z:/spigot-1.13.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558023769568" />
+    <property name="last_opened_file_path" value="G:/spigot-1.14.1.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -206,16 +219,17 @@
       <workItem from="1533570312870" duration="1174000" />
       <workItem from="1533815159758" duration="877000" />
       <workItem from="1534073014712" duration="538000" />
+      <workItem from="1558023102756" duration="1212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11206000" />
+    <option name="totallyTimeSpent" value="12418000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="147" y="110" width="1863" height="979" extended-state="0" />
+    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23294508" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21312805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -251,32 +265,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/mrmatches/PercentageSleep/PercentageSleep.java</url>
-          <line>91</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/mrmatches/PercentageSleep/PercentageSleep.java</url>
-          <line>87</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Percentage-Sleep.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mrmatches/PercentageSleep/PercentageSleep.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
-          <caret line="86" column="36" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
+        <state relative-caret-position="532">
+          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -356,6 +352,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -375,7 +372,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>spigot-1.13</last-edited>
+          <last-edited>spigot-1.14.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

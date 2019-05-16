@@ -28,6 +28,7 @@ public class PercentageSleep extends JavaPlugin implements Listener {
 
     @EventHandler
     public void PlayerBedEnterEvent(PlayerBedEnterEvent event) {
+        if (event.getBedEnterResult() != PlayerBedEnterEvent.BedEnterResult.OK) return;
         Player triggerPlayer = event.getPlayer();
         inBedPlayers.add(triggerPlayer);
         if (!checkSkip()) {
